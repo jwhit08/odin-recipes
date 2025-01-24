@@ -2,8 +2,17 @@
     background-color: #fdfbd4;
 }
 
-.fonts, h1{
+.fonts, h1, h2, p{
     font-family: copperplate, fantasy ;
     color: #717D92;
     
+}
+
+.fonts.lists{
+    color: red;
+}
+
+h2, p, .home {
+    font-weight: bolder;
+    color: black;
 }
