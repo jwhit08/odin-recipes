@@ -1,1 +1,1 @@
-First project in The Odin Project. I will be creating a simple recipe site utilizing HTML.  
+First project in The Odin Project. I will be creating a simple recipe site utilizing HTML & CSS.  
