@@ -2,14 +2,37 @@
     background-color: #fdfbd4;
 }
 
-.fonts, h1, h2, p{
+.title {
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+div {
+    outline: 2px solid black;  
+    margin: 50px 100px; /* Top and bottom: 50px, Left and right: 100px */
+    padding: 50px;
+    text-align: center;
+    background-color: #FF5733;
+    font-size: larger;
+}
+
+.fonts{
+    background-color: #FF5733;
+    color: #fdfbd4; 
+    font-family: copperplate, fantasy ;
+}
+
+h1, h2, p{
     font-family: copperplate, fantasy ;
     color: #717D92;
-    
 }
 
 .fonts.lists{
     color: red;
+    background-color:#fdfbd4 ;
+    outline: 2px solid black; 
+
 }
 
 h2, p, .home {
